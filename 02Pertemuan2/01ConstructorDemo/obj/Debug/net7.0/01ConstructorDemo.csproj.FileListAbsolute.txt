@@ -1,0 +1,15 @@
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/bin/Debug/net7.0/01ConstructorDemo
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/bin/Debug/net7.0/01ConstructorDemo.deps.json
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/bin/Debug/net7.0/01ConstructorDemo.runtimeconfig.json
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/bin/Debug/net7.0/01ConstructorDemo.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/bin/Debug/net7.0/01ConstructorDemo.pdb
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/obj/Debug/net7.0/01ConstructorDemo.csproj.AssemblyReference.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/obj/Debug/net7.0/01ConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/obj/Debug/net7.0/01ConstructorDemo.AssemblyInfoInputs.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/obj/Debug/net7.0/01ConstructorDemo.AssemblyInfo.cs
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/obj/Debug/net7.0/01ConstructorDemo.csproj.CoreCompileInputs.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/obj/Debug/net7.0/01ConstructorDemo.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/obj/Debug/net7.0/refint/01ConstructorDemo.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/obj/Debug/net7.0/01ConstructorDemo.pdb
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/obj/Debug/net7.0/01ConstructorDemo.genruntimeconfig.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/02Pertemuan2/01ConstructorDemo/obj/Debug/net7.0/ref/01ConstructorDemo.dll

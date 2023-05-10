@@ -1,0 +1,15 @@
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/bin/Debug/net7.0/02InheritanceImplement
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/bin/Debug/net7.0/02InheritanceImplement.deps.json
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/bin/Debug/net7.0/02InheritanceImplement.runtimeconfig.json
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/bin/Debug/net7.0/02InheritanceImplement.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/bin/Debug/net7.0/02InheritanceImplement.pdb
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/obj/Debug/net7.0/02InheritanceImplement.csproj.AssemblyReference.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/obj/Debug/net7.0/02InheritanceImplement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/obj/Debug/net7.0/02InheritanceImplement.AssemblyInfoInputs.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/obj/Debug/net7.0/02InheritanceImplement.AssemblyInfo.cs
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/obj/Debug/net7.0/02InheritanceImplement.csproj.CoreCompileInputs.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/obj/Debug/net7.0/02InheritanceImplement.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/obj/Debug/net7.0/refint/02InheritanceImplement.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/obj/Debug/net7.0/02InheritanceImplement.pdb
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/obj/Debug/net7.0/02InheritanceImplement.genruntimeconfig.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/02InheritanceImplement/obj/Debug/net7.0/ref/02InheritanceImplement.dll

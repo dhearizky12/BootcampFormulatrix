@@ -1,0 +1,15 @@
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/bin/Debug/net7.0/Question2
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/bin/Debug/net7.0/Question2.deps.json
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/bin/Debug/net7.0/Question2.runtimeconfig.json
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/bin/Debug/net7.0/Question2.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/bin/Debug/net7.0/Question2.pdb
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/obj/Debug/net7.0/Question2.csproj.AssemblyReference.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/obj/Debug/net7.0/Question2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/obj/Debug/net7.0/Question2.AssemblyInfoInputs.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/obj/Debug/net7.0/Question2.AssemblyInfo.cs
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/obj/Debug/net7.0/Question2.csproj.CoreCompileInputs.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/obj/Debug/net7.0/Question2.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/obj/Debug/net7.0/refint/Question2.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/obj/Debug/net7.0/Question2.pdb
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/obj/Debug/net7.0/Question2.genruntimeconfig.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/01Question/Question2/obj/Debug/net7.0/ref/Question2.dll

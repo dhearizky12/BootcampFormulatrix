@@ -1,0 +1,15 @@
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/bin/Debug/net7.0/01Inheritance
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/bin/Debug/net7.0/01Inheritance.deps.json
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/bin/Debug/net7.0/01Inheritance.runtimeconfig.json
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/bin/Debug/net7.0/01Inheritance.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/bin/Debug/net7.0/01Inheritance.pdb
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/obj/Debug/net7.0/01Inheritance.csproj.AssemblyReference.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/obj/Debug/net7.0/01Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/obj/Debug/net7.0/01Inheritance.AssemblyInfoInputs.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/obj/Debug/net7.0/01Inheritance.AssemblyInfo.cs
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/obj/Debug/net7.0/01Inheritance.csproj.CoreCompileInputs.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/obj/Debug/net7.0/01Inheritance.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/obj/Debug/net7.0/refint/01Inheritance.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/obj/Debug/net7.0/01Inheritance.pdb
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/obj/Debug/net7.0/01Inheritance.genruntimeconfig.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/03Pertemuan3/01Inheritance/obj/Debug/net7.0/ref/01Inheritance.dll

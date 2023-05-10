@@ -1,0 +1,15 @@
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/bin/Debug/net7.0/02
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/bin/Debug/net7.0/02.deps.json
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/bin/Debug/net7.0/02.runtimeconfig.json
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/bin/Debug/net7.0/02.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/bin/Debug/net7.0/02.pdb
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/obj/Debug/net7.0/02.csproj.AssemblyReference.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/obj/Debug/net7.0/02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/obj/Debug/net7.0/02.AssemblyInfoInputs.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/obj/Debug/net7.0/02.AssemblyInfo.cs
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/obj/Debug/net7.0/02.csproj.CoreCompileInputs.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/obj/Debug/net7.0/02.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/obj/Debug/net7.0/refint/02.dll
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/obj/Debug/net7.0/02.pdb
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/obj/Debug/net7.0/02.genruntimeconfig.cache
+/Users/fikyfatih/Developer/01BootcampFormulatrix/04Pertemuan4/02/obj/Debug/net7.0/ref/02.dll
